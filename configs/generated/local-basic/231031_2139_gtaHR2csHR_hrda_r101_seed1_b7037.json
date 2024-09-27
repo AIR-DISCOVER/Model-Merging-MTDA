@@ -1,0 +1,6 @@
+{
+    "_base_": "../../hrda/gtaHR2csHR_hrda_r101_nPretrained.py",
+    "name": "231031_2139_gtaHR2csHR_hrda_r101_seed1_b7037",
+    "work_dir": "work_dirs/local-basic/231031_2139_gtaHR2csHR_hrda_r101_seed1_b7037",
+    "git_rev": "70e3910330dc699f1704a329617101524bd01857"
+}

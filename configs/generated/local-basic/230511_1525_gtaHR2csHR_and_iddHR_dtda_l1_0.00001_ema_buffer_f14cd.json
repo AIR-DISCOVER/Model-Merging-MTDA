@@ -1,0 +1,6 @@
+{
+    "_base_": "../../dtda/gtaHR2csHR_and_iddHR_dtda_l1_1e-5_ema_buffer.py",
+    "name": "230511_1525_gtaHR2csHR_and_iddHR_dtda_l1_0.00001_ema_buffer_f14cd",
+    "work_dir": "work_dirs/local-basic/230511_1525_gtaHR2csHR_and_iddHR_dtda_l1_0.00001_ema_buffer_f14cd",
+    "git_rev": "e59a374f8e81f3c71e345057c9603161ff2f5b12"
+}

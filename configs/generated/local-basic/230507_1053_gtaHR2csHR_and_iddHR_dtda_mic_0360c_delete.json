@@ -1,0 +1,6 @@
+{
+    "_base_": "../../mic/gtaHR2csHR_and_iddHR_dtda_mic.py",
+    "name": "230507_1053_gtaHR2csHR_and_iddHR_dtda_mic_0360c_delete",
+    "work_dir": "work_dirs/local-basic/230507_1053_gtaHR2csHR_and_iddHR_dtda_mic_0360c_delete",
+    "git_rev": "5d949ee67a2587d3bc7f2a7efeeac772e6dcb3b0"
+}

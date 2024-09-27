@@ -1,0 +1,6 @@
+{
+    "_base_": "../../dtda/gtaHR2csHR_and_iddHR_dtda.py",
+    "name": "230503_1421_gtaHR2csHR_and_iddHR_dtda_s1_cc5f5_hrda_pretrained",
+    "work_dir": "work_dirs/local-basic/230503_1421_gtaHR2csHR_and_iddHR_dtda_s1_cc5f5_hrda_pretrained",
+    "git_rev": "5d949ee67a2587d3bc7f2a7efeeac772e6dcb3b0"
+}

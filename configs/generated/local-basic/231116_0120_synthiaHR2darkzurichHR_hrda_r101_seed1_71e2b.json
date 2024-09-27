@@ -1,0 +1,6 @@
+{
+    "_base_": "../../hrda/synthiaHR2darkzurichHR_hrda_r101.py",
+    "name": "231116_0120_synthiaHR2darkzurichHR_hrda_r101_seed1_71e2b",
+    "work_dir": "work_dirs/local-basic/231116_0120_synthiaHR2darkzurichHR_hrda_r101_seed1_71e2b",
+    "git_rev": "70e3910330dc699f1704a329617101524bd01857"
+}
